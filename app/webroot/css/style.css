@@ -1,0 +1,26 @@
+/* 
+    Document   : style
+    Created on : 2013/08/09, 17:01:08
+    Author     : macbook_003
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+#content {
+    margin-top: 50px;
+}
+
+.carousel .item {
+    height: 500px;
+    width: 1224px;
+}
+
+.image-product {
+    width: 300px !important;
+    height: 300px !important;
+}
+
